@@ -12,4 +12,4 @@ In the project directory, you can run:
 ### `npm i`
 ### `npm start`
 
-Then you can test with postman.
+Then you can test with `Postman`.
